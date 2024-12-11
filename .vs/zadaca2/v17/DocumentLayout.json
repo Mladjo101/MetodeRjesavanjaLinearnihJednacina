@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\zadaca2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|c:\\users\\user\\source\\repos\\zadaca2\\zadaca2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|solutionrelative:zadaca2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|c:\\users\\user\\source\\repos\\zadaca2\\zadaca2\\jacobirelaksacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|solutionrelative:zadaca2\\jacobirelaksacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|c:\\users\\user\\source\\repos\\zadaca2\\zadaca2\\ludekompozicija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|solutionrelative:zadaca2\\ludekompozicija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|c:\\users\\user\\source\\repos\\zadaca2\\zadaca2\\gaussovametodaeliminacije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B7757-1A87-4E51-9B19-D76DC5A156F4}|zadaca2\\zadaca2.csproj|solutionrelative:zadaca2\\gaussovametodaeliminacije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\Menu.cs",
+              "RelativeDocumentMoniker": "zadaca2\\Menu.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\Menu.cs",
+              "RelativeToolTip": "zadaca2\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:17:21.706Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GaussovaMetodaEliminacije.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\GaussovaMetodaEliminacije.cs",
+              "RelativeDocumentMoniker": "zadaca2\\GaussovaMetodaEliminacije.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\GaussovaMetodaEliminacije.cs",
+              "RelativeToolTip": "zadaca2\\GaussovaMetodaEliminacije.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:18:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LUDekompozicija.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\LUDekompozicija.cs",
+              "RelativeDocumentMoniker": "zadaca2\\LUDekompozicija.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\LUDekompozicija.cs",
+              "RelativeToolTip": "zadaca2\\LUDekompozicija.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:24:08.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JacobiRelaksacija.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\JacobiRelaksacija.cs",
+              "RelativeDocumentMoniker": "zadaca2\\JacobiRelaksacija.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zadaca2\\zadaca2\\JacobiRelaksacija.cs",
+              "RelativeToolTip": "zadaca2\\JacobiRelaksacija.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwH0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:34:56.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
